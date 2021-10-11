@@ -1,16 +1,16 @@
-# Hello People! 👋
+## Hello People! 👋
 
 <!-- **nabilahlp/nabilahlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## 🍊 Nabilah's Github Profile
+### 🍊 Nabilah's Github Profile
 I'm Nabilah Luthfiana Putri (she/her) -- an information system's student at UPN Veteran Jakarta 
 - 👩‍💻 Currently learning about Web Development using ![](https://img.shields.io/badge/-HTML-orange?logo=html.png&style=flat-square) ![](https://img.shields.io/badge/-CSS-blue?logo=html.png&style=flat-square) ![](https://img.shields.io/badge/-JavaScript-yellow?logo=html.png&style=flat-square) ![](https://img.shields.io/badge/-PHP-informational?logo=php.png&style=flat-square)
 - 🎨 Also design some apps/web interfaces that you can see [**here**](https://www.dribbble.com/nabilahlp)
 
-## 🤙🏻 You can reach me at
+### 🤙🏻 You can reach me at
 - 📧 [Email](mailto:nabilahluthfianaputri@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nabilah-luthfiana-putri-a7b8a81b7/)
 
-## ✨ Github's Stats
+### ✨ Github's Stats
 <!-- status codes -->
 <a align="center" href="#">
     <p align="center">
