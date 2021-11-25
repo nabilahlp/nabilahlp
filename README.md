@@ -6,10 +6,6 @@ I'm Nabilah Luthfiana Putri (she/her) -- an information system's student at UPN 
 - 👩‍💻 Currently learning about Web Development using ![](https://img.shields.io/badge/-HTML-orange?logo=html.png&style=flat-square) ![](https://img.shields.io/badge/-CSS-blue?logo=html.png&style=flat-square) ![](https://img.shields.io/badge/-JavaScript-yellow?logo=html.png&style=flat-square) ![](https://img.shields.io/badge/-PHP-informational?logo=php.png&style=flat-square)
 - 🎨 Also design some apps/web interfaces that you can see [**here**](https://www.dribbble.com/nabilahlp)
 
-### 🤙🏻 You can reach me at
-- 📧 [Email](mailto:nabilahluthfianaputri@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nabilah-luthfiana-putri-a7b8a81b7/)
-
 ### ✨ Github's Stats
 <!-- status codes -->
 <a align="center" href="#">
